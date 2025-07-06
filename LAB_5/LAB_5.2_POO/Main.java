@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/*
+ * @Joel Seura 21.556.232-8 
+ */
 public class Main {
     public static void main(String[] args) {
         double[] carrito = {15000, 300000, 750000}; // Montos del carrito
